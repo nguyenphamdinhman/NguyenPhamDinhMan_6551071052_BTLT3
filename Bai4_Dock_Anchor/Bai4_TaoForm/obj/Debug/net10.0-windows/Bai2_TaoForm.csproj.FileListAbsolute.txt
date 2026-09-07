@@ -1,0 +1,17 @@
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\bin\Debug\net10.0-windows\Bai2_TaoForm.exe
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\bin\Debug\net10.0-windows\Bai2_TaoForm.deps.json
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\bin\Debug\net10.0-windows\Bai2_TaoForm.runtimeconfig.json
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\bin\Debug\net10.0-windows\Bai2_TaoForm.dll
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\bin\Debug\net10.0-windows\Bai2_TaoForm.pdb
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.Form1.resources
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.csproj.GenerateResource.cache
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.AssemblyInfoInputs.cache
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.AssemblyInfo.cs
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.dll
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\refint\Bai2_TaoForm.dll
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.pdb
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_TaoForm.genruntimeconfig.cache
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\ref\Bai2_TaoForm.dll
+C:\Users\Admin\LT\C#\Bai2_TaoForm\Bai2_TaoForm\obj\Debug\net10.0-windows\Bai2_Tao.930B3C53.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\bin\Debug\net10.0-windows\Bai3_FormHoTen.exe
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\bin\Debug\net10.0-windows\Bai3_FormHoTen.deps.json
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\bin\Debug\net10.0-windows\Bai3_FormHoTen.runtimeconfig.json
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\bin\Debug\net10.0-windows\Bai3_FormHoTen.dll
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\bin\Debug\net10.0-windows\Bai3_FormHoTen.pdb
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.Form1.resources
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.csproj.GenerateResource.cache
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.AssemblyInfoInputs.cache
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.AssemblyInfo.cs
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.dll
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\refint\Bai3_FormHoTen.dll
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.pdb
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_FormHoTen.genruntimeconfig.cache
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\ref\Bai3_FormHoTen.dll
+C:\Users\Admin\LT\C#\Bai3_FormHoTen\Bai3_FormHoTen\obj\Debug\net10.0-windows\Bai3_For.BBE9F318.Up2Date
